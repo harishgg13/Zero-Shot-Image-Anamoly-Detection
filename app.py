@@ -14,9 +14,9 @@ if "page" in st.query_params:
 # --------------------------------------------------------------------------------------------------------------------
 import pymysql
 con=pymysql.connect(
-    host="localhost",        # your DB host
-    user="root",             # your username
-    password="12345678",
+    host="Enter your host", 
+    user="your user name",             # your username
+    password="your pass word",
     database="production"
 )
 cursor = con.cursor()
