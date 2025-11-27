@@ -4,9 +4,9 @@ import math
 import pandas as pd
 
 con=pymysql.connect(
-    host="localhost",        # your DB host
-    user="root",             # your username
-    password="12345678",
+    host="Enter your host", 
+    user="your user name",             # your username
+    password="your password",
     database="production"
 )
 cursor = con.cursor()
