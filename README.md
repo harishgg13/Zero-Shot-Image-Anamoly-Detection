@@ -1,7 +1,9 @@
-#🛰️ Zero-Shot Image Anomaly Detection
+# 🛰️ Zero-Shot Image Anomaly Detection 
 
 A lightweight implementation of zero-shot anomaly detection using latent-space feature extraction and K-Nearest Neighbors (KNN)–based anomaly scoring.
 The project focuses on detecting defects in images without training on anomalous samples, making it suitable for industrial and real-world inspection tasks where anomalies are rare.
+
+--- 
 
 🚀 Project Overview
 
