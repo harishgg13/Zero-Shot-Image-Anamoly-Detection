@@ -30,12 +30,19 @@ You can train models for new categories by providing "good" (normal) sample imag
 
 
 ├── app.py                         # Streamlit-based demo app
+
 ├── about.py                       # About section for UI
+
 ├── knn_hazelnut_good_model.pkl    # Saved normal model for Hazelnut
+
 ├── knn_toothbrush_good_model.pkl  # Saved normal model for Toothbrush
+
 ├── LatentSpace_Hazelnut.ipynb     # Notebook for Hazelnut anomaly demo
+
 ├── LatentSpace_toothbrush.ipynb   # Notebook for Toothbrush anomaly demo
+
 ├── requirements.txt               # Dependencies
+
 └── README.md                      # Project documentation
 
 --- 
