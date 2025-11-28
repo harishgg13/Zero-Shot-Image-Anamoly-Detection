@@ -27,7 +27,8 @@ You can train models for new categories by providing "good" (normal) sample imag
 --- 
 
 # 📂 Repository Structure
-.
+
+
 ├── app.py                         # Streamlit-based demo app
 ├── about.py                       # About section for UI
 ├── knn_hazelnut_good_model.pkl    # Saved normal model for Hazelnut
